@@ -56,7 +56,8 @@ Se o valor obtido pelo sensor ultrassonico de acordo com os pacientes encontrado
 Se op valor for superior á 250, a LED vermelha acende, informando o app de que tal hospital está possivelmente superlotado.
 
 Fizemos um circuito simples, mas que é 100% integrado á ideia SMARTMED de solução, basicamente fornecendo informações cruciais para o funcionamento do app. PARA ENTENDER DE FORMA PRÁTICA COMO FUNCIONA O CIRCUITO, VEJA O VÍDEO ABAIXO:
-Link do vídeo:
+Link do vídeo: https://youtu.be/PwkmUkKAjzo?si=67G9eAYyewUNlZdy
+
 
 Link para teste no Wokwi:
  https://wokwi.com/projects/378844628209643521
